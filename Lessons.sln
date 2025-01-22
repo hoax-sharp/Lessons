@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{42A2907B-3D05-4004-B9A7-9579AA5A4080}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{5C40B97B-C082-466F-8035-460DE5D7899E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{42A2907B-3D05-4004-B9A7-9579AA5A4080}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42A2907B-3D05-4004-B9A7-9579AA5A4080}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42A2907B-3D05-4004-B9A7-9579AA5A4080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C40B97B-C082-466F-8035-460DE5D7899E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C40B97B-C082-466F-8035-460DE5D7899E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C40B97B-C082-466F-8035-460DE5D7899E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C40B97B-C082-466F-8035-460DE5D7899E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
